@@ -5,6 +5,8 @@ In the Dev Road im actually a:
 - [ ] Senior
 - [ ] Farmer
 ## Tecnologys and Experience
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+          
 - Go
 - Python
 - SQL
