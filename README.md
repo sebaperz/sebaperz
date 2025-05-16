@@ -1,9 +1,14 @@
 ## About me
-Actually im a:
-- Student <
-- Junior
-- Senior
-- Farmer
+In the Dev Road im actually a:
+- [X] Student
+- [ ] Junior
+- [ ] Senior
+- [ ] Farmer
+## Tecnologys and Experience
+- Go
+- Python
+- SQL
+- Fluent on Linux and Vim Motions
 ## Currently Learning / Working on:
 -  Remembering why I opened that terminal
 - Stop referring to bugs as Features
