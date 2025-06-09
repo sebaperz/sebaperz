@@ -1,6 +1,6 @@
 ## Welcome to my GitHub! 
 
-Here you’ll find things I build to make my (and others’) lives easier; plus some side quests, half‑finished experiments, and the occasional “it just works” mystery.
+Here you’ll find things I build to make my (and others’) lives easier; plus some side quests among all the things I'm interested in.
 
 ## Currently Learning / Working on:
 - Remembering why I opened that terminal
